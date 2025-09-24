@@ -1,0 +1,5 @@
+{
+  "name": "Ayage Chat",
+  "description": "An interactive chat application to converse with Ayage, a specialized technical AI partner, configured with a deep system prompt defining its identity, rules, and knowledge base.",
+  "requestFramePermissions": []
+}
